@@ -207,10 +207,10 @@ Using the sales dataset provided,carryout the following
 
 ### solution: PIVOT TABLE 1
 
-![image](https://github.com/Junnielexia/DATA-ANALYSIS-TRAINING/assets/95970546/235c81a3-2c6e-402d-a58e-e2dfe3da73ed)
+![Image Alt Text](https://raw.githubusercontent.com/Junnielexia/DATA-ANALYSIS-TRAINING/main/images/Screenshot%20(74).png)
 
 ### Solution: PIVOT TABLE 2
-![image](https://github.com/Junnielexia/DATA-ANALYSIS-TRAINING/assets/95970546/1301f52b-8557-474f-9725-83a8f72e1f0f)
+![Image Alt Text](https://raw.githubusercontent.com/Junnielexia/DATA-ANALYSIS-TRAINING/main/images/Screenshot%20(75).png)
 
 ***
 # EXCEL DASHBOARD
@@ -307,5 +307,5 @@ h. Order and Sales by Month
 ***
 **Fifth Analysis:** I created a dashboard representing the kpI and added interactivity to it by including search button for the customers,links and icons,slicers etc
 
-![image](https://github.com/Junnielexia/DATA-ANALYSIS-TRAINING/assets/95970546/bdfb4a3c-4eac-421e-9ec6-8c5040cce8e0)
+![Image Alt Text](https://raw.githubusercontent.com/Junnielexia/DATA-ANALYSIS-TRAINING/main/images/Screenshot%20(85).png)
 ***
